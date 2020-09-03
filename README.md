@@ -21,6 +21,16 @@ I will try to include all types of data-structures with examples.
   - Graph
   - Trie
   - Segement Tree
-  - suffic Tree
+  - suffix Tree
+
+# What is Data Structure?
+
+Simplest form ↠ data in structured format.
+
+It is a way of organizing data in the system so that it can be used effectively. 
+
+# Why Data structure?
+
+The idea is to reduce the space and time 🕰 for different tasks (ie. space and time complexities) within the system.
 
 
